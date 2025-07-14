@@ -8,7 +8,7 @@
   <a href="https://androidweekly.net/issues/issue-545"><img alt="Android Weekly" src="https://skydoves.github.io/badges/android-weekly.svg"/></a>
   <a href="https://github.com/skydoves"><img alt="Profile" src="https://skydoves.github.io/badges/skydoves.svg"/></a>   
 </p><br>
-
+     
 <p align="center">
 ☁️ Compose blur effect library, which falls back on to a CPU-based implementation to support older API levels.
 </p><br>  
