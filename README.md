@@ -11,7 +11,7 @@
 
 <p align="center">
 ☁️ Compose blur effect library, which falls back on to a CPU-based implementation to support older API levels.
-</p><br>
+</p><br>  
 
 > <p align="center">The `blur` modifier supports only Android 12 and higher, and `RenderScript` APIs are deprecated starting in Android 12.
 > Cloudy is the backport of the blur effect for Jetpack Compose.</p>
